@@ -47,7 +47,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/KamilFuz/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</developerConnection>
         <tag>0.0.2</tag>
     </scm>
 
