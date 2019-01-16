@@ -47,8 +47,17 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</developerConnection>
-        <tag>0.0.2</tag>
+        <!--<url>https://github.com/kevinsawicki/github-maven-example</url>-->
+        <url>https://github.com/KamilFuz/sfg-pet-clinic</url>
+        <!--<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>-->
+        <connection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</connection>
+        <!--<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>-->
+        <developerConnection>scm:git:git@github.com:KamilFuz/sfg-pet-clinic.git</developerConnection>
     </scm>
+
+    <!--<scm>-->
+        <!--<developerConnection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</developerConnection>-->
+        <!--<tag>0.0.2</tag>-->
+    <!--</scm>-->
 
 </project>
