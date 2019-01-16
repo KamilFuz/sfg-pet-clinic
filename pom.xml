@@ -46,13 +46,13 @@
         </plugins>
     </build>
 
-    <!--<scm>-->
-       <!--<url>https://github.com/KamilFuz/sfg-pet-clinic</url>-->
+    <scm>
+       <url>https://github.com/KamilFuz/sfg-pet-clinic</url>
 
-        <!--<connection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</connection>-->
-       <!---->
-        <!--<developerConnection>scm:git:git@github.com:KamilFuz/sfg-pet-clinic.git</developerConnection>-->
-    <!--</scm>-->
+        <connection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</connection>
+       
+        <developerConnection>scm:git:git@github.com:KamilFuz/sfg-pet-clinic.git</developerConnection>
+    </scm>
 
     <!--<scm>-->
         <!--<developerConnection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</developerConnection>-->
