@@ -47,11 +47,11 @@
     </build>
 
     <scm>
-       <url>https://github.com/KamilFuz/sfg-pet-clinic</url>
-
-        <connection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</connection>
+       <!--<url>https://github.com/KamilFuz/sfg-pet-clinic</url>-->
+<!---->
+        <!--<connection>scm:git:git://github.com/KamilFuz/sfg-pet-clinic.git</connection>-->
        
-        <developerConnection>scm:git:git@github.com:KamilFuz/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:ssh@github.com:KamilFuz/sfg-pet-clinic.git</developerConnection>
     </scm>
 
     <!--<scm>-->
