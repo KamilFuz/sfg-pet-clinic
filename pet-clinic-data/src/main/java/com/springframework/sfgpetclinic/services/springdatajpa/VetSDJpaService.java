@@ -22,11 +22,11 @@ public class VetSDJpaService  implements VetService {
     @Override
     public Set<Vet> findAll() {
 
-        Set<Vet> owners = new HashSet<>();
+        Set<Vet> vets = new HashSet<>();
 
-        vetRepository.findAll().forEach(owners::add);
+        vetRepository.findAll().forEach(vets::add);
 
-        return owners;
+        return vets;
     }
 
     @Override
