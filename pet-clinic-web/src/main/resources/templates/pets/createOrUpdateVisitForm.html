@@ -21,7 +21,7 @@
         <th>Owner</th>
     </tr>
     </thead>
-    <td>
+    <tr>
         <td th:text="${pet.name}"/></td>
         <td th:text="${#temporals.format(pet.birthDate, 'yyyy-MM-dd')}"/></td>
         <td th:text="${pet.petType}"/></td>
